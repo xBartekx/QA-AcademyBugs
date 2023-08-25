@@ -1,0 +1,2 @@
+# BartekAppsAndProjects
+My personal projects 
